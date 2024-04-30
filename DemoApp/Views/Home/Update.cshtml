@@ -1,0 +1,73 @@
+﻿
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<script src="~/Scripts/jquery-3.5.0.js"></script>
+<script src="~/Scripts/jquery-3.5.0.min.js"></script>
+
+
+<script type="text/javascript">
+
+    window.onload = function editdata() {
+
+        $.getJSON("/Home/updateData", function (returnValue) {
+
+            $('#studentid').val(returnValue.studentid);
+            $('#firstname').val(returnValue.firstname);
+            $('#lastname').val(returnValue.lastname);
+            $('#age').val(returnValue.age);
+            $('#address').val(returnValue.address);
+        });
+    }
+
+
+    function updatedata() {
+
+
+        var firstname = $('#firstname').val();
+        var lastname = $('#lastname').val();
+        var age = $('#age').val();
+        var address = $('#address').val();
+        var studentid = $('#studentid').val();
+        $.get("/Home/Update_Data?studentid=" + studentid + "&firstname=" + firstname + "&lastname=" + lastname + "&age=" + age + "&address=" + address, function (returnValue) {
+
+            if (returnValue == "0") {
+                return false;
+            }
+            else {
+                window.location.href = returnValue;
+            }
+
+        });
+
+    }
+</script>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form>
+        <label style="visibility:hidden" for="studentid">Student Id:</label>
+        <input type="hidden" id="studentid" name="studentid"><br><br>
+        <label for="firstname">First Name:</label>
+        <input type="text" id="firstname" name="firstname"><br><br>
+        <label for="lastname">Last Name:</label>
+        <input type="text" id="lastname" name="lastname"><br><br>
+        <label for="age">Age:</label>
+        <input type="text" id="age" name="age"><br><br>
+        <label for="address">Address:</label>
+        <input type="text" id="address" name="address"><br><br>
+
+        <input id="button1" type="button" value="Enter" onclick="updatedata()">
+    </form>
+    <div>
+    </div>
+</body>
+</html>
+

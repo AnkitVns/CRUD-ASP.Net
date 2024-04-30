@@ -1,0 +1,164 @@
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\ApplicationInsights.config
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\csc.exe
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\vbc.exe
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\DemoApp.dll.config
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\DemoApp.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\DemoApp.pdb
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.Web.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Helpers.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Mvc.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Razor.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Webpages.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.Web.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Razor.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Webpages.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Helpers.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\bin\System.Web.Mvc.xml
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.dll
+C:\Users\Golu Srivastava\Documents\Visual Studio 2015\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
+D:\Project\DemoApp\DemoApp\bin\ApplicationInsights.config
+D:\Project\DemoApp\DemoApp\bin\roslyn\csc.exe
+D:\Project\DemoApp\DemoApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\DemoApp\DemoApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\DemoApp\DemoApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\DemoApp\DemoApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\DemoApp\DemoApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\DemoApp\DemoApp\bin\roslyn\vbc.exe
+D:\Project\DemoApp\DemoApp\bin\roslyn\VBCSCompiler.exe
+D:\Project\DemoApp\DemoApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\DemoApp\DemoApp\bin\DemoApp.dll.config
+D:\Project\DemoApp\DemoApp\bin\DemoApp.dll
+D:\Project\DemoApp\DemoApp\bin\DemoApp.pdb
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.Web.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.ApplicationInsights.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\DemoApp\DemoApp\bin\System.Web.Helpers.dll
+D:\Project\DemoApp\DemoApp\bin\System.Web.Mvc.dll
+D:\Project\DemoApp\DemoApp\bin\System.Web.Razor.dll
+D:\Project\DemoApp\DemoApp\bin\System.Web.Webpages.Deployment.dll
+D:\Project\DemoApp\DemoApp\bin\System.Web.Webpages.dll
+D:\Project\DemoApp\DemoApp\bin\System.Web.Webpages.Razor.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.Web.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.ApplicationInsights.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\DemoApp\DemoApp\bin\System.Web.Razor.xml
+D:\Project\DemoApp\DemoApp\bin\System.Web.Webpages.xml
+D:\Project\DemoApp\DemoApp\bin\System.Web.Webpages.Deployment.xml
+D:\Project\DemoApp\DemoApp\bin\System.Web.Webpages.Razor.xml
+D:\Project\DemoApp\DemoApp\bin\System.Web.Helpers.xml
+D:\Project\DemoApp\DemoApp\bin\System.Web.Mvc.xml
+D:\Project\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.AssemblyReference.cache
+D:\Project\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+D:\Project\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CopyComplete
+D:\Project\DemoApp\DemoApp\obj\Debug\DemoApp.dll
+D:\Project\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
+D:\Project\DemoApp\DemoApp\bin\Azure.Core.dll
+D:\Project\DemoApp\DemoApp\bin\Azure.Identity.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Data.SqlClient.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Identity.Client.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Logging.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Project\DemoApp\DemoApp\bin\System.Buffers.dll
+D:\Project\DemoApp\DemoApp\bin\System.Configuration.ConfigurationManager.dll
+D:\Project\DemoApp\DemoApp\bin\System.Data.SqlClient.dll
+D:\Project\DemoApp\DemoApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project\DemoApp\DemoApp\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\DemoApp\DemoApp\bin\System.IO.FileSystem.AccessControl.dll
+D:\Project\DemoApp\DemoApp\bin\System.Memory.Data.dll
+D:\Project\DemoApp\DemoApp\bin\System.Memory.dll
+D:\Project\DemoApp\DemoApp\bin\System.Numerics.Vectors.dll
+D:\Project\DemoApp\DemoApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\DemoApp\DemoApp\bin\System.Security.AccessControl.dll
+D:\Project\DemoApp\DemoApp\bin\System.Security.Cryptography.ProtectedData.dll
+D:\Project\DemoApp\DemoApp\bin\System.Security.Permissions.dll
+D:\Project\DemoApp\DemoApp\bin\System.Security.Principal.Windows.dll
+D:\Project\DemoApp\DemoApp\bin\System.Text.Encodings.Web.dll
+D:\Project\DemoApp\DemoApp\bin\System.Text.Json.dll
+D:\Project\DemoApp\DemoApp\bin\System.Threading.Tasks.Extensions.dll
+D:\Project\DemoApp\DemoApp\bin\System.ValueTuple.dll
+D:\Project\DemoApp\DemoApp\bin\Azure.Core.xml
+D:\Project\DemoApp\DemoApp\bin\Azure.Identity.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Data.SqlClient.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Identity.Client.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Logging.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Project\DemoApp\DemoApp\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Project\DemoApp\DemoApp\bin\System.Buffers.xml
+D:\Project\DemoApp\DemoApp\bin\System.Configuration.ConfigurationManager.xml
+D:\Project\DemoApp\DemoApp\bin\System.Data.SqlClient.xml
+D:\Project\DemoApp\DemoApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\DemoApp\DemoApp\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Project\DemoApp\DemoApp\bin\System.IO.FileSystem.AccessControl.xml
+D:\Project\DemoApp\DemoApp\bin\System.Memory.xml
+D:\Project\DemoApp\DemoApp\bin\System.Memory.Data.xml
+D:\Project\DemoApp\DemoApp\bin\System.Numerics.Vectors.xml
+D:\Project\DemoApp\DemoApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\DemoApp\DemoApp\bin\System.Security.AccessControl.xml
+D:\Project\DemoApp\DemoApp\bin\System.Security.Cryptography.ProtectedData.xml
+D:\Project\DemoApp\DemoApp\bin\System.Security.Permissions.xml
+D:\Project\DemoApp\DemoApp\bin\System.Security.Principal.Windows.xml
+D:\Project\DemoApp\DemoApp\bin\System.Text.Encodings.Web.xml
+D:\Project\DemoApp\DemoApp\bin\System.Text.Json.xml
+D:\Project\DemoApp\DemoApp\bin\System.Threading.Tasks.Extensions.xml
+D:\Project\DemoApp\DemoApp\bin\System.ValueTuple.xml
+D:\Project\DemoApp\DemoApp\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Project\DemoApp\DemoApp\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll

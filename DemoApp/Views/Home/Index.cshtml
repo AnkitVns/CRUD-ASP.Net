@@ -1,0 +1,85 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+@*<script src="~/Scripts/jquery-3.5.0.js"></script>
+ <script src="~/Scripts/jquery-3.5.0.min.js"></script>*@
+
+<script src="http://localhost:7866/Scripts/jquery-3.5.0.js" integrity="sha384-AQhQSZGQWTMJhb/TdS7NWpCmOM/8lIEsaevSU5oZtt8pQKoa+uJL4A2WnQ0O5Zj2" crossorigin="anonymous"></script>
+
+<script src="http://localhost:7866/Scripts/jquery-3.5.0.min.js" integrity="sha384-LVoNJ6yst/aLxKvxwp6s2GAabqPczfWh6xzm38S/YtjUyZ+3aTKOnD/OJVGYLZDl" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript">
+
+    window.onload = fetch_data();
+
+    function delete_data(val) {
+        var studentid = val;
+        $.get("/Home/deletedata?studentid=" + studentid, function (returnValue) {
+
+            if (returnValue == "0") {
+                return false;
+            }
+            else {
+                window.location.href = returnValue;
+            }
+        });
+    }
+
+
+    function fetch_data() {
+        $("#tblData_Summary").empty();
+
+        $.getJSON("/Home/getData",
+            function (table) {
+                var data;
+                //Append each row to html table
+                for (var i = 0; i < table.length; i++) {
+                    data += "<tr>";
+                    data += "<td>" + (i + 1) + "</td>";
+                    data += "<td>" + table[i].studentid + "</td>";
+                    data += "<td>" + table[i].firstname + "</td>";
+                    data += "<td>" + table[i].lastname + "</td>";
+                    data += "<td>" + table[i].age + "</td>";
+                    data += "<td>" + table[i].address + "</td>";
+
+                    data += "<td>" + "<a class=" + " active" + " href=" + "'/Home/Update?studentid=" + table[i].studentid + "'>" + 'Update' + "</a> </td>";
+                    data += "<td>" + "<input  type=" + "'button'" + " value=" + "'delete'" + " onclick=" + "'delete_data(" + '"' + table[i].studentid + '"' + ")'" + "/>" + "</td>";
+                    data += "</tr>";
+                }
+                $("#tblData_Summary").append(data);
+            });
+    }
+</script>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <a class="active" href="/Home/Add">Create New Student Record</a>
+
+
+        <table>
+            <thead>
+                <tr>
+                    <th data-column-id="SL" data-type="numeric" style="color: #2196f3;">SL</th>
+                    <th data-column-id="country" style="color: #2196f3;">Student Id</th>
+                    <th data-column-id="population" style="color: #2196f3;">First Name</th>
+                    <th data-column-id="cases" style="color: #2196f3;">Last Name</th>
+                    <th data-column-id="casesInPercent" style="color: #2196f3;">Age</th>
+                    <th data-column-id="deaths" style="color: #2196f3;">Address</th>
+
+                </tr>
+            </thead>
+            <tbody id="tblData_Summary"></tbody>
+        </table>
+    </div>
+</body>
+</html>
+

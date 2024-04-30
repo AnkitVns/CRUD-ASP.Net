@@ -1,0 +1,31 @@
+Create database Test
+
+=====================
+
+Use Test
+
+=================================================
+
+
+CREATE TABLE StudentRecords
+(
+studentid     INT IDENTITY(10000,1) PRIMARY KEY,
+firstname     VARCHAR(255) NOT NULL,
+lastname      VARCHAR(255) NULL,
+age           NVARCHAR(45) NULL,
+address       VARCHAR(255) NOT NULL
+)
+
+=================================================
+	 
+Select * from StudentRecords
+
+=================================================
+	 
+Insert into StudentRecords values('Ankit','Srivastava','27','Noida')
+
+======================================================================================================
+
+      ---END --- Go to the Application & Create, update & delete data from Application ---
+
+======================================================================================================
